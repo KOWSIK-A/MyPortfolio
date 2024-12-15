@@ -187,7 +187,7 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/DatascienceLogo.jpeg"),
+      image: require("./assets/images/DatascienceLogo.jpg"),
       projectName:
         "Early prediction of diabetes allows individuals to take preventive measures and make lifestyle changes to manage the condition effectively",
       projectDesc:
